@@ -1,0 +1,54 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Khata" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/coverGreen</item>
+        <item name="android:windowBackground">@color/paper</item>
+        <item name="android:statusBarColor">@color/coverGreen</item>
+    </style>
+
+    <style name="Theme.Khata" parent="Base.Theme.Khata" />
+
+    <!-- Base style for Khata custom styles -->
+    <style name="Khata" />
+
+    <!-- Shared look for the ledger-book screens -->
+    <style name="Khata.Label">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/fadedInk</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="Khata.Heading">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/coverGreen</item>
+        <item name="android:fontFamily">serif</item>
+    </style>
+
+    <style name="Khata.Text">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/fadedInk</item>
+    </style>
+
+    <style name="Khata.Input">
+        <item name="android:background">@drawable/bg_input</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/inkBlack</item>
+        <item name="android:textColorHint">@color/fadedInk</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="Khata.Button" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/coverGreen</item>
+        <item name="android:textColor">@color/paper</item>
+        <item name="cornerRadius">4dp</item>
+    </style>
+
+    <style name="Khata.Button.Ghost" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textColor">@color/coverGreen</item>
+        <item name="strokeColor">@color/coverGreen</item>
+        <item name="cornerRadius">4dp</item>
+    </style>
+</resources>

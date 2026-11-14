@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="paper">#EDE6D3</color>
+    <color name="paperDark">#E3DAC1</color>
+    <color name="coverGreen">#2F4A3C</color>
+    <color name="coverDark">#223629</color>
+    <color name="debitRed">#A6342D</color>
+    <color name="creditBlue">#1F3A5F</color>
+    <color name="goldLeaf">#B8935A</color>
+    <color name="inkBlack">#2A241B</color>
+    <color name="fadedInk">#7A6F5C</color>
+    <color name="ruleLine">#CFC4A8</color>
+    <color name="cardPaper">#FBF7EC</color>
+</resources>

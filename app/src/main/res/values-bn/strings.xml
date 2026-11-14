@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appSub">দৈনিক হিসাব খাতা</string>
+    <string name="shopNamePlaceholder">দোকানের নাম</string>
+    <string name="langToggle">English</string>
+    <string name="signOut">সাইন আউট</string>
+    <string name="loading">খাতা লোড হচ্ছে…</string>
+    <string name="loadFailed">ডেটা লোড করা যায়নি। ইন্টারনেট চেক করে আবার চেষ্টা করুন।</string>
+    <string name="retry">আবার চেষ্টা করুন</string>
+    <string name="googleFailed">গুগল সাইন-ইন ব্যর্থ হয়েছে</string>
+    <string name="homeChooseSub">কোন খাতা খুলতে চান তা নির্বাচন করুন।</string>
+    <string name="navBizTitle">ব্যবসার হিসাব</string>
+    <string name="navBizDesc">গ্রাহকের হিসাব, সম্পূর্ণ খাতা এবং মজুদ ও দাম ট্র্যাকিং।</string>
+    <string name="navPersonalTitle">ব্যক্তিগত হিসাব</string>
+    <string name="navPersonalDesc">নিজের দৈনিক খরচ ট্র্যাক করুন — জ্বালানি, খাবার, রিচার্জ ও আরও।</string>
+    <string name="navEntryTitle">নতুন হিসাব</string>
+    <string name="navEntryDesc">গ্রাহকের জন্য ক্রেডিট বা ডেবিট লেনদেন যোগ করুন।</string>
+    <string name="navAllTitle">সব হিসাব</string>
+    <string name="navAllDesc">খুঁজুন, সম্পাদনা করুন ও সম্পূর্ণ খাতা দেখুন।</string>
+    <string name="navStockTitle">মজুদ ও দাম</string>
+    <string name="navStockDesc">পণ্যের ক্রয়/বিক্রয় দাম লিখুন ও প্রবণতা দেখুন।</string>
+    <string name="navPredictionTitle">দামের পূর্বাভাস</string>
+    <string name="navPredictionDesc">পরের মাসে একটি পণ্যের দাম বাড়বে না কমবে তা দেখুন।</string>
+    <string name="navAdminTitle">অ্যাডমিন প্যানেল</string>
+    <string name="navAdminDesc">পণ্যের দামের ইতিহাস ইমপোর্ট ও পরিচালনা করুন।</string>
+    <string name="homeCreditLabel">মোট ক্রেডিট</string>
+    <string name="homeDebitLabel">মোট ডেবিট</string>
+    <string name="homeNetLabel">নিট ব্যালেন্স</string>
+    <string name="backLink">← ফিরে যান</string>
+    <string name="overdueHeading">বকেয়া গ্রাহক (৩০+ দিন)</string>
+    <string name="noOverdue">কোনো গ্রাহকের বকেয়া নেই — চমৎকার!</string>
+    <string name="daysOverdue">দিন</string>
+    <string name="newEntryTitle">নতুন হিসাব</string>
+    <string name="editEntryTitle">হিসাব সম্পাদনা</string>
+    <string name="newEntrySub">ক্রেডিট (টাকা পাওয়া) বা ডেবিট (টাকা পাওনা) লেনদেন যোগ করুন।</string>
+    <string name="editEntrySub">এই লেনদেনটি আপডেট করুন।</string>
+    <string name="lblDate">তারিখ</string>
+    <string name="lblParty">পার্টি / গ্রাহক</string>
+    <string name="lblPhone">ফোন (ঐচ্ছিক)</string>
+    <string name="lblCommodity">পণ্য (ঐচ্ছিক)</string>
+    <string name="lblType">ধরন</string>
+    <string name="lblNote">নোট</string>
+    <string name="partyPlaceholder">যেমন করিম মিয়া</string>
+    <string name="commodityPlaceholder">যেমন পেঁয়াজ, ডাল, চাল</string>
+    <string name="notePlaceholder">ঐচ্ছিক</string>
+    <string name="addEntryBtn">+ হিসাব যোগ করুন</string>
+    <string name="saveChangesBtn">পরিবর্তন সংরক্ষণ করুন</string>
+    <string name="cancelEditBtn">বাতিল করুন</string>
+    <string name="savedText">সংরক্ষিত হয়েছে।</string>
+    <string name="fillRequired">প্রয়োজনীয় ঘরগুলো সঠিকভাবে পূরণ করুন।</string>
+    <string name="lblQuantity">পরিমাণ</string>
+    <string name="lblRate">প্রতি ইউনিট দাম (৳)</string>
+    <string name="unitKg">কেজি</string>
+    <string name="unitPiece">পিস</string>
+    <string name="unitGram">গ্রাম</string>
+    <string name="unitOthers">অন্যান্য</string>
+    <string name="lblTotalPreview">মোট টাকা</string>
+    <string name="receiptTitle">সর্বশেষ হিসাব</string>
+    <string name="receiptSub">টাকা দেওয়ার আগে মিলিয়ে নিন</string>
+    <string name="receiptEmpty">এখনো কোনো হিসাব যোগ হয়নি — ফর্ম পূরণ করে \"হিসাব যোগ করুন\" চাপুন।</string>
+    <string name="receiptDate">তারিখ</string>
+    <string name="receiptPhone">ফোন</string>
+    <string name="receiptCommodity">পণ্য</string>
+    <string name="receiptQty">পরিমাণ</string>
+    <string name="receiptRate">দাম</string>
+    <string name="receiptTotal">মোট টাকা</string>
+    <string name="creditWord">ক্রেডিট</string>
+    <string name="debitWord">ডেবিট</string>
+    <string name="creditBtn">ক্রেডিট</string>
+    <string name="debitBtn">ডেবিট</string>
+    <string name="allViewTitle">সব হিসাব</string>
+    <string name="allViewSub">খুঁজুন, সম্পাদনা করুন, পার্টি ও পণ্য অনুযায়ী ফিল্টার করুন।</string>
+    <string name="searchPlaceholder">পার্টি, পণ্য বা নোট খুঁজুন...</string>
+    <string name="allCommodities">সব পণ্য</string>
+    <string name="allParties">সব পার্টি</string>
+    <string name="clearAll">সব মুছুন</string>
+    <string name="psBalance">ব্যালেন্স</string>
+    <string name="totalCredit">মোট ক্রেডিট</string>
+    <string name="totalDebit">মোট ডেবিট</string>
+    <string name="netBalance">নিট ব্যালেন্স</string>
+    <string name="emptyLedger">এখনো কোনো হিসাব নেই — \"নতুন হিসাব\" থেকে যোগ করুন।</string>
+    <string name="showMore">আরও দেখুন</string>
+    <string name="deletedText">মুছে ফেলা হয়েছে।</string>
+    <string name="undoBtn">ফিরিয়ে আনুন</string>
+    <string name="confirmClearLedger">এটি স্থায়ীভাবে সব হিসাব মুছে ফেলবে। চালিয়ে যাবেন?</string>
+    <string name="confirmClearStock">এটি স্থায়ীভাবে সব মজুদ তথ্য মুছে ফেলবে। চালিয়ে যাবেন?</string>
+    <string name="confirmClearExpense">এটি স্থায়ীভাবে সব খরচ মুছে ফেলবে। চালিয়ে যাবেন?</string>
+    <string name="yes">হ্যাঁ</string>
+    <string name="cancel">বাতিল</string>
+    <string name="stockViewTitle">মজুদ ও দাম</string>
+    <string name="stockViewSub">পণ্যের ক্রয়/বিক্রয় দাম লিখে মৌসুমি প্রবণতা ও সংকেত দেখুন।</string>
+    <string name="lblStockCommodity">পণ্য</string>
+    <string name="lblStockBuy">ক্রয় মূল্য (প্রতি কেজি/মণ)</string>
+    <string name="lblStockSell">বিক্রয় মূল্য (ঐচ্ছিক)</string>
+    <string name="lblStockQty">পরিমাণ (কেজি/মণ)</string>
+    <string name="addStockBtn">+ মজুদ যোগ করুন</string>
+    <string name="thBuy">ক্রয়</string>
+    <string name="thSell">বিক্রয়</string>
+    <string name="thQty">পরিমাণ</string>
+    <string name="thProfit">লাভ</string>
+    <string name="emptyStock">এখনো কোনো মজুদ তথ্য নেই — উপরে প্রথমটি যোগ করুন।</string>
+    <string name="seasonalHeading">মাস অনুযায়ী গড় দাম</string>
+    <string name="selectPlaceholder">— নির্বাচন করুন —</string>
+    <string name="signalHeading">কেনা / বেচার সংকেত</string>
+    <string name="lblSignalPrice">আজকের দাম যা দেখছেন</string>
+    <string name="checkSignal">সংকেত দেখুন</string>
+    <string name="selectCommodityFirst">প্রথমে উপরের প্যানেলে একটি পণ্য নির্বাচন করুন।</string>
+    <string name="enterValidPrice">সঠিক দাম লিখুন।</string>
+    <string name="selectCommodityAbove">উপরে একটি পণ্য নির্বাচন করুন।</string>
+    <string name="noDataCommodity">এই পণ্যের জন্য এখনো কোনো তথ্য নেই।</string>
+    <string name="historicalAvg">ঐতিহাসিক গড়</string>
+    <string name="todaysPrice">আজকের দাম</string>
+    <string name="recordsWord">টি তথ্য</string>
+    <string name="verdictBuy">কেনার ভালো সময় — দাম মৌসুমি গড়ের চেয়ে অনেক কম।</string>
+    <string name="verdictSell">বেচার ভালো সময় — দাম মৌসুমি গড়ের চেয়ে অনেক বেশি।</string>
+    <string name="verdictNeutral">দাম এই সময়ের জন্য স্বাভাবিক — কোনো শক্তিশালী সংকেত নেই।</string>
+    <string name="noDataForCommodityMonth">{m} মাসে {c}-এর জন্য এখনো কোনো তথ্য নেই। সংকেত পেতে আরও কিছু তথ্য যোগ করুন।</string>
+    <string name="predSub">লগ করা দামের ইতিহাসের উপর ভিত্তি করে — অতীত দামের পরিসংখ্যান, বাজারের পূর্বাভাস নয়।</string>
+    <string name="predCurrentAvg">বর্তমান গড়</string>
+    <string name="predSeasonalLabelSuffix">মৌসুমি গড়</string>
+    <string name="predNoSeasonalData">মৌসুমি তথ্য নেই</string>
+    <string name="predTrend">সাম্প্রতিক প্রবণতা</string>
+    <string name="predNoData">এই পণ্যের জন্য এখনো কোনো দামের তথ্য নেই।</string>
+    <string name="predSelectPrompt">পূর্বাভাস দেখতে উপরে একটি পণ্য নির্বাচন করুন।</string>
+    <string name="predVerdictRise">পরের মাসে দাম বাড়ার সম্ভাবনা আছে।</string>
+    <string name="predVerdictFall">পরের মাসে দাম কমার সম্ভাবনা আছে।</string>
+    <string name="predVerdictStable">পরের মাসের জন্য স্থিতিশীল / মিশ্র সংকেত।</string>
+    <string name="predConfidenceHigh">উচ্চ আস্থা</string>
+    <string name="predConfidenceMedium">মাঝারি আস্থা</string>
+    <string name="predConfidenceLow">কম আস্থা</string>
+    <string name="predBasedOn">ভিত্তি</string>
+    <string name="predNoWeatherData">এখনো কোনো আবহাওয়া-ট্যাগ করা তথ্য নেই।</string>
+    <string name="predWeatherHeading">আবহাওয়া অনুযায়ী দাম (ঐতিহাসিক)</string>
+    <string name="liveWeatherHeading">লাইভ আবহাওয়া — বাংলাদেশ</string>
+    <string name="weatherNormal">স্বাভাবিক</string>
+    <string name="weatherHeavyRain">ভারী বৃষ্টি</string>
+    <string name="weatherFlood">বন্যা</string>
+    <string name="weatherDrought">খরা</string>
+    <string name="weatherCyclone">ঘূর্ণিঝড়</string>
+    <string name="weatherOther">অন্যান্য</string>
+    <string name="wCodeClear">পরিষ্কার আকাশ</string>
+    <string name="wCodeMainlyClear">মূলত পরিষ্কার</string>
+    <string name="wCodePartlyCloudy">আংশিক মেঘলা</string>
+    <string name="wCodeOvercast">মেঘলা</string>
+    <string name="wCodeFog">কুয়াশা</string>
+    <string name="wCodeDrizzle">হালকা বৃষ্টি</string>
+    <string name="wCodeRain">বৃষ্টি</string>
+    <string name="wCodeHeavyRain">ভারী বৃষ্টি</string>
+    <string name="wCodeRainShowers">বৃষ্টির ঝাপটা</string>
+    <string name="wCodeThunderstorm">বজ্রঝড়</string>
+    <string name="predWeatherContextNote">শুধু তথ্যের জন্য — পূর্বাভাসের হিসাবে ব্যবহার হয় না।</string>
+    <string name="predWeatherUnavailable">এই মুহূর্তে আবহাওয়ার তথ্য পাওয়া যাচ্ছে না।</string>
+    <string name="predWeatherLocationLabel">ঢাকা, বাংলাদেশ</string>
+    <string name="adminSub">পণ্যের দামের ইতিহাস ইমপোর্ট করুন (CSV: Date, Commodity, Price, Weather)।</string>
+    <string name="adminImportCsv">⬆ দামের ইতিহাস CSV ইমপোর্ট</string>
+    <string name="adminManualHeading">একটি দামের তথ্য যোগ করুন</string>
+    <string name="lblPrice">দাম</string>
+    <string name="lblWeather">আবহাওয়া (ঐচ্ছিক)</string>
+    <string name="addPricePoint">+ দাম যোগ করুন</string>
+    <string name="adminCommoditiesHeading">priceHistory-তে থাকা পণ্য</string>
+    <string name="adminNone">এখনো কোনো পণ্য নেই।</string>
+    <string name="adminReplace">প্রতিস্থাপন</string>
+    <string name="adminAdd">যোগ করুন</string>
+    <string name="expenseViewTitle">দৈনিক খরচ</string>
+    <string name="expenseViewSub">একটি ক্যাটাগরি নির্বাচন করুন — সিস্টেম নিজেই ডেবিট বা ক্রেডিট ঠিক করবে।</string>
+    <string name="lblExpenseCategory">ক্যাটাগরি</string>
+    <string name="lblExpenseAmount">পরিমাণ (৳)</string>
+    <string name="selectCategory">একটি ক্যাটাগরি নির্বাচন করুন</string>
+    <string name="debitArrow">→ খরচ (ডেবিট)</string>
+    <string name="creditArrow">→ আয় (ক্রেডিট)</string>
+    <string name="addExpenseBtn">+ খরচ যোগ করুন</string>
+    <string name="emptyExpense">এই মাসে এখনো কোনো খরচ যোগ করা হয়নি।</string>
+    <string name="expTotalCredit">মোট ক্রেডিট (আয়)</string>
+    <string name="expTotalDebit">মোট ডেবিট (খরচ)</string>
+    <string name="expTotalNet">নিট</string>
+    <string name="reportHeading">মাস শেষের রিপোর্ট</string>
+    <string name="reportSub">আয় ও খরচের হিসাব দেখতে একটি মাস নির্বাচন করুন।</string>
+    <string name="reportCredit">ক্রেডিট (আয়)</string>
+    <string name="reportDebit">ডেবিট (খরচ)</string>
+    <string name="reportNet">নিট লাভ/ক্ষতি</string>
+    <string name="noExpenseThisMonth">এই মাসে কোনো খরচ লেখা হয়নি।</string>
+    <string name="showMoreEntries">এন্ট্রি দেখুন ▾</string>
+    <string name="showLessEntries">এন্ট্রি লুকান ▴</string>
+    <string name="email">ইমেইল</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="signIn">সাইন ইন</string>
+    <string name="createAccount">অ্যাকাউন্ট তৈরি করুন</string>
+    <string name="continueGoogle">গুগল দিয়ে চালিয়ে যান</string>
+    <string name="working">অপেক্ষা করুন…</string>
+    <string name="errInvalidEmail">ইমেইল ঠিকানাটি সঠিক নয়।</string>
+    <string name="errNoUser">এই ইমেইলে কোনো অ্যাকাউন্ট পাওয়া যায়নি।</string>
+    <string name="errWrongCredential">ইমেইল বা পাসওয়ার্ড ভুল।</string>
+    <string name="errEmailInUse">এই ইমেইলে আগে থেকেই অ্যাকাউন্ট আছে — সাইন ইন করুন।</string>
+    <string name="errWeakPassword">পাসওয়ার্ড কমপক্ষে ৬ অক্ষরের হতে হবে।</string>
+    <string name="errGeneric">কিছু একটা সমস্যা হয়েছে।</string>
+    <string name="errEnterBoth">ইমেইল ও পাসওয়ার্ড লিখুন।</string>
+    <string name="errEnterBothCreate">অ্যাকাউন্ট তৈরি করতে ইমেইল ও পাসওয়ার্ড লিখুন।</string>
+    <string name="tabHome">হোম</string>
+    <string name="tabLedger">খাতা</string>
+    <string name="tabStock">মজুদ</string>
+    <string name="tabPersonal">ব্যক্তিগত</string>
+    <string name="tabProfile">প্রোফাইল</string>
+    <string name="lblSignedInAs">সাইন ইন করা আছে</string>
+    <string name="adminSaveFailed">দামের তথ্যটি সংরক্ষণ করা যায়নি।</string>
+    <string name="adminReadFailed">ফাইল পড়া যায়নি: %1$s</string>
+    <string name="adminNoRows">কোনো তথ্য পাওয়া যায়নি।</string>
+    <string name="adminBadColumns">প্রয়োজনীয় কলাম: Date, Commodity, Price, Weather (Weather ঐচ্ছিক)।</string>
+    <string name="adminNoValid">কোনো সঠিক সারি পাওয়া যায়নি।</string>
+    <string name="adminFound">%2$d টি পণ্যে %1$d টি সঠিক সারি পাওয়া গেছে।\n\nপ্রতিস্থাপন = পুরোনো ইতিহাস মুছে নতুন বসানো।\nযোগ করুন = পুরোনো ইতিহাসের সাথে যোগ করা।</string>
+    <string name="adminUploading">আপলোড হচ্ছে…</string>
+    <string name="adminFinished">ইমপোর্ট শেষ: %1$d/%2$d টি পণ্য সংরক্ষিত। %3$d টি সারি বাদ, %4$d টি ব্যর্থ (অ্যাডমিন অনুমতি দেখুন)।</string>
+    <string name="syncFailed">ক্লাউডে সংরক্ষণ ব্যর্থ: %1$s</string>
+    <string-array name="categories">
+        <item>বেতন</item>
+        <item>সঞ্চয়</item>
+        <item>ভাড়া</item>
+        <item>বিদ্যুৎ / ইউটিলিটি</item>
+        <item>পরিবহন</item>
+        <item>জ্বালানি খরচ</item>
+        <item>খাবার খরচ</item>
+        <item>মোবাইল রিচার্জ</item>
+        <item>উৎসব খরচ</item>
+        <item>মুদি বাজার</item>
+        <item>শিক্ষা / টিউশন</item>
+        <item>চিকিৎসা / স্বাস্থ্য</item>
+        <item>শ্রমিক মজুরি</item>
+        <item>লোড / আনলোড</item>
+        <item>দোকান মেরামত</item>
+        <item>অন্যান্য খরচ</item>
+        <item>অতিরিক্ত আয়</item>
+        <item>ফেরত পাওয়া</item>
+        <item>অন্যান্য আয়</item>
+    </string-array>
+    <string-array name="months">
+        <item>জানু</item>
+        <item>ফেব্রু</item>
+        <item>মার্চ</item>
+        <item>এপ্রিল</item>
+        <item>মে</item>
+        <item>জুন</item>
+        <item>জুলাই</item>
+        <item>আগস্ট</item>
+        <item>সেপ্টে</item>
+        <item>অক্টো</item>
+        <item>নভে</item>
+        <item>ডিসে</item>
+    </string-array>
+</resources>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Khata</string>
+    <string name="appSub">daily accounts ledger</string>
+    <string name="shopNamePlaceholder">Shop name</string>
+    <string name="langToggle">বাংলা</string>
+    <string name="signOut">Sign out</string>
+    <string name="loading">Loading your ledger…</string>
+    <string name="loadFailed">Could not load your data. Check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="googleFailed">Google sign-in failed</string>
+    <string name="homeChooseSub">Choose which ledger you want to open.</string>
+    <string name="navBizTitle">Business Ledger</string>
+    <string name="navBizDesc">Customer entries, full ledger, and stock &amp; price tracking for your shop.</string>
+    <string name="navPersonalTitle">Personal Ledger</string>
+    <string name="navPersonalDesc">Track your own daily expenses — fuel, meals, recharge, and more.</string>
+    <string name="navEntryTitle">New Entry</string>
+    <string name="navEntryDesc">Add a credit or debit transaction for a customer.</string>
+    <string name="navAllTitle">All Entries</string>
+    <string name="navAllDesc">Search, edit and review the full ledger.</string>
+    <string name="navStockTitle">Stock &amp; Price</string>
+    <string name="navStockDesc">Log commodity buy/sell prices and see seasonal trends.</string>
+    <string name="navPredictionTitle">Price Prediction</string>
+    <string name="navPredictionDesc">See whether a commodity\'s price looks likely to rise or fall next month.</string>
+    <string name="navAdminTitle">Admin Panel</string>
+    <string name="navAdminDesc">Import and manage commodity price history.</string>
+    <string name="homeCreditLabel">Total Credit</string>
+    <string name="homeDebitLabel">Total Debit</string>
+    <string name="homeNetLabel">Net Balance</string>
+    <string name="backLink">← Back</string>
+    <string name="overdueHeading">Overdue Customers (30+ days)</string>
+    <string name="noOverdue">No customers overdue — nice work.</string>
+    <string name="daysOverdue">days</string>
+    <string name="newEntryTitle">New Entry</string>
+    <string name="editEntryTitle">Edit Entry</string>
+    <string name="newEntrySub">Add a credit (money received) or debit (money owed to you) transaction.</string>
+    <string name="editEntrySub">Update this transaction.</string>
+    <string name="lblDate">Date</string>
+    <string name="lblParty">Party / customer</string>
+    <string name="lblPhone">Phone (optional)</string>
+    <string name="lblCommodity">Commodity (optional)</string>
+    <string name="lblType">Type</string>
+    <string name="lblNote">Note</string>
+    <string name="partyPlaceholder">e.g. Karim Mia</string>
+    <string name="commodityPlaceholder">e.g. Onion, Lentil, Rice</string>
+    <string name="notePlaceholder">optional</string>
+    <string name="addEntryBtn">+ Add Entry</string>
+    <string name="saveChangesBtn">Save changes</string>
+    <string name="cancelEditBtn">Cancel edit</string>
+    <string name="savedText">Saved.</string>
+    <string name="fillRequired">Please fill in the required fields with valid numbers.</string>
+    <string name="lblQuantity">Quantity</string>
+    <string name="lblRate">Amount / Quantity (rate, ৳)</string>
+    <string name="unitKg">kg</string>
+    <string name="unitPiece">piece</string>
+    <string name="unitGram">gram</string>
+    <string name="unitOthers">others</string>
+    <string name="lblTotalPreview">Total Amount</string>
+    <string name="receiptTitle">LAST ENTRY</string>
+    <string name="receiptSub">Confirm before you hand over cash</string>
+    <string name="receiptEmpty">No entry added yet — fill the form and tap \"Add Entry\" to see the bill here.</string>
+    <string name="receiptDate">Date</string>
+    <string name="receiptPhone">Phone</string>
+    <string name="receiptCommodity">Commodity</string>
+    <string name="receiptQty">Quantity</string>
+    <string name="receiptRate">Rate</string>
+    <string name="receiptTotal">Total Amount</string>
+    <string name="creditWord">Credit</string>
+    <string name="debitWord">Debit</string>
+    <string name="creditBtn">CREDIT</string>
+    <string name="debitBtn">DEBIT</string>
+    <string name="allViewTitle">All Entries</string>
+    <string name="allViewSub">Search, edit or filter by party and commodity.</string>
+    <string name="searchPlaceholder">Search party, commodity or note...</string>
+    <string name="allCommodities">All commodities</string>
+    <string name="allParties">All parties</string>
+    <string name="clearAll">Clear all</string>
+    <string name="psBalance">Balance</string>
+    <string name="totalCredit">Total Credit</string>
+    <string name="totalDebit">Total Debit</string>
+    <string name="netBalance">Net Balance</string>
+    <string name="emptyLedger">No entries yet — go to \"New Entry\" to add your first transaction.</string>
+    <string name="showMore">Show more</string>
+    <string name="deletedText">Deleted.</string>
+    <string name="undoBtn">Undo</string>
+    <string name="confirmClearLedger">This will permanently delete all ledger entries. Continue?</string>
+    <string name="confirmClearStock">This will permanently delete all stock entries. Continue?</string>
+    <string name="confirmClearExpense">This will permanently delete all expense entries. Continue?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="stockViewTitle">Stock &amp; Price</string>
+    <string name="stockViewSub">Log commodity buy/sell prices to see seasonal trends and buy/sell signals.</string>
+    <string name="lblStockCommodity">Commodity</string>
+    <string name="lblStockBuy">Buy price (per kg/maund)</string>
+    <string name="lblStockSell">Sell price (optional)</string>
+    <string name="lblStockQty">Quantity (kg/maund)</string>
+    <string name="addStockBtn">+ Add Stock Entry</string>
+    <string name="thBuy">Buy</string>
+    <string name="thSell">Sell</string>
+    <string name="thQty">Qty</string>
+    <string name="thProfit">Profit</string>
+    <string name="emptyStock">No stock entries yet — add your first buy/sell record above.</string>
+    <string name="seasonalHeading">Seasonal average by month</string>
+    <string name="selectPlaceholder">— select —</string>
+    <string name="signalHeading">Buy / sell signal</string>
+    <string name="lblSignalPrice">Today\'s price you\'re seeing</string>
+    <string name="checkSignal">Check signal</string>
+    <string name="selectCommodityFirst">Select a commodity in the panel above first.</string>
+    <string name="enterValidPrice">Enter a valid price.</string>
+    <string name="selectCommodityAbove">Select a commodity above.</string>
+    <string name="noDataCommodity">No data logged yet for this commodity.</string>
+    <string name="historicalAvg">historical avg</string>
+    <string name="todaysPrice">today\'s price</string>
+    <string name="recordsWord">record(s)</string>
+    <string name="verdictBuy">GOOD TIME TO BUY — price is notably below the seasonal average.</string>
+    <string name="verdictSell">GOOD TIME TO SELL — price is notably above the seasonal average.</string>
+    <string name="verdictNeutral">Price looks normal for this time of year — no strong signal.</string>
+    <string name="noDataForCommodityMonth">No historical data for {c} in {m} yet. Log a few more entries to get a signal.</string>
+    <string name="predSub">Based on logged price history — a statistical read of past prices, not a market forecast.</string>
+    <string name="predCurrentAvg">Current avg</string>
+    <string name="predSeasonalLabelSuffix">seasonal avg</string>
+    <string name="predNoSeasonalData">No seasonal data</string>
+    <string name="predTrend">Recent trend</string>
+    <string name="predNoData">No price history logged for this commodity yet.</string>
+    <string name="predSelectPrompt">Select a commodity above to see its prediction.</string>
+    <string name="predVerdictRise">Likely to rise next month.</string>
+    <string name="predVerdictFall">Likely to fall next month.</string>
+    <string name="predVerdictStable">Stable / mixed signal for next month.</string>
+    <string name="predConfidenceHigh">High confidence</string>
+    <string name="predConfidenceMedium">Medium confidence</string>
+    <string name="predConfidenceLow">Low confidence</string>
+    <string name="predBasedOn">based on</string>
+    <string name="predNoWeatherData">No weather-tagged data yet.</string>
+    <string name="predWeatherHeading">Price by weather condition (historical)</string>
+    <string name="liveWeatherHeading">Live weather — Bangladesh</string>
+    <string name="weatherNormal">Normal</string>
+    <string name="weatherHeavyRain">Heavy Rain</string>
+    <string name="weatherFlood">Flood</string>
+    <string name="weatherDrought">Drought</string>
+    <string name="weatherCyclone">Cyclone</string>
+    <string name="weatherOther">Other</string>
+    <string name="wCodeClear">Clear sky</string>
+    <string name="wCodeMainlyClear">Mainly clear</string>
+    <string name="wCodePartlyCloudy">Partly cloudy</string>
+    <string name="wCodeOvercast">Overcast</string>
+    <string name="wCodeFog">Foggy</string>
+    <string name="wCodeDrizzle">Light drizzle</string>
+    <string name="wCodeRain">Rain</string>
+    <string name="wCodeHeavyRain">Heavy rain</string>
+    <string name="wCodeRainShowers">Rain showers</string>
+    <string name="wCodeThunderstorm">Thunderstorm</string>
+    <string name="predWeatherContextNote">Shown for context only — not used in the prediction score.</string>
+    <string name="predWeatherUnavailable">Live weather is unavailable right now.</string>
+    <string name="predWeatherLocationLabel">Dhaka, Bangladesh</string>
+    <string name="adminSub">Bulk-import commodity price history (CSV with columns Date, Commodity, Price, Weather — Weather optional).</string>
+    <string name="adminImportCsv">⬆ Import price history CSV</string>
+    <string name="adminManualHeading">Add a single price point</string>
+    <string name="lblPrice">Price</string>
+    <string name="lblWeather">Weather (optional)</string>
+    <string name="addPricePoint">+ Add price point</string>
+    <string name="adminCommoditiesHeading">Commodities currently in priceHistory</string>
+    <string name="adminNone">No commodities yet.</string>
+    <string name="adminReplace">Replace</string>
+    <string name="adminAdd">Add</string>
+    <string name="expenseViewTitle">Daily Expenses</string>
+    <string name="expenseViewSub">Pick a category — the system decides debit (expense) or credit (income) automatically.</string>
+    <string name="lblExpenseCategory">Category</string>
+    <string name="lblExpenseAmount">Amount (৳)</string>
+    <string name="selectCategory">Select a category</string>
+    <string name="debitArrow">→ Debit (expense)</string>
+    <string name="creditArrow">→ Credit (income)</string>
+    <string name="addExpenseBtn">+ Add Expense</string>
+    <string name="emptyExpense">No expenses logged this month yet.</string>
+    <string name="expTotalCredit">Total Credit (income)</string>
+    <string name="expTotalDebit">Total Debit (expense)</string>
+    <string name="expTotalNet">Net</string>
+    <string name="reportHeading">Month-end report</string>
+    <string name="reportSub">Pick a month to see its income vs expense breakdown.</string>
+    <string name="reportCredit">Credit (income)</string>
+    <string name="reportDebit">Debit (expense)</string>
+    <string name="reportNet">Net profit/loss</string>
+    <string name="noExpenseThisMonth">No expenses logged for this month.</string>
+    <string name="showMoreEntries">Show entries ▾</string>
+    <string name="showLessEntries">Hide entries ▴</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signIn">Sign In</string>
+    <string name="createAccount">Create Account</string>
+    <string name="continueGoogle">Continue with Google</string>
+    <string name="working">Working…</string>
+    <string name="errInvalidEmail">That email address looks invalid.</string>
+    <string name="errNoUser">No account found with that email.</string>
+    <string name="errWrongCredential">Incorrect email or password.</string>
+    <string name="errEmailInUse">An account with that email already exists — try Sign In instead.</string>
+    <string name="errWeakPassword">Password should be at least 6 characters.</string>
+    <string name="errGeneric">Something went wrong.</string>
+    <string name="errEnterBoth">Enter your email and password.</string>
+    <string name="errEnterBothCreate">Enter an email and password to create an account.</string>
+    <string name="tabHome">Home</string>
+    <string name="tabLedger">Ledger</string>
+    <string name="tabStock">Stock</string>
+    <string name="tabPersonal">Personal</string>
+    <string name="tabProfile">Profile</string>
+    <string name="lblSignedInAs">Signed in as</string>
+    <string name="adminSaveFailed">Could not save this price point.</string>
+    <string name="adminReadFailed">Could not read file: %1$s</string>
+    <string name="adminNoRows">No data rows found.</string>
+    <string name="adminBadColumns">Expected columns: Date, Commodity, Price, Weather (Weather optional).</string>
+    <string name="adminNoValid">No valid rows found.</string>
+    <string name="adminFound">Found %1$d valid row(s) across %2$d commodity/commodities.\n\nReplace = overwrite each commodity\'s existing history.\nAdd = append to existing history.</string>
+    <string name="adminUploading">Uploading…</string>
+    <string name="adminFinished">Import finished: %1$d/%2$d commodities saved. %3$d row(s) skipped, %4$d failed (check your admin permissions).</string>
+    <string name="syncFailed">Cloud sync failed: %1$s</string>
+    <string-array name="categories">
+        <item>Salary</item>
+        <item>Savings</item>
+        <item>Rent</item>
+        <item>Electricity / Utility</item>
+        <item>Transport</item>
+        <item>Fuel Cost</item>
+        <item>Meal Cost</item>
+        <item>Mobile Recharge</item>
+        <item>Festival Cost</item>
+        <item>Groceries</item>
+        <item>Education / Tuition</item>
+        <item>Medical / Health</item>
+        <item>Labor / Wages</item>
+        <item>Loading / Unloading</item>
+        <item>Shop Maintenance</item>
+        <item>Other Expense</item>
+        <item>Extra Income</item>
+        <item>Refund Received</item>
+        <item>Other Income</item>
+    </string-array>
+    <string-array name="months">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+</resources>

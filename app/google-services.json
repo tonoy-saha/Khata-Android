@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "907759785389",
+    "project_id": "business-ledger-f7720",
+    "storage_bucket": "business-ledger-f7720.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907759785389:android:7e30cd830807d16d567d24",
+        "android_client_info": {
+          "package_name": "com.khata.ledger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907759785389-81dko9bjthpocjkl1a0make5i14usqsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khata.ledger",
+            "certificate_hash": "0e4302631ded70f2be4ddfefd203b5fe99509e74"
+          }
+        },
+        {
+          "client_id": "907759785389-d3r24qh0cj0mjdvgcqm1e4v4ipabciv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNwk5pteADUF8HTSR9C9MEfxbqxwLEZV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907759785389-d3r24qh0cj0mjdvgcqm1e4v4ipabciv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
